@@ -1,0 +1,14 @@
+#monsterTitle {
+    font-family: "Runic MT Std Condensed";
+    font-size: 6rem;
+    font-weight: 600;
+}
+
+.card-container{
+    padding-top: 0;
+}
+
+.MonsterList{
+    padding-top: 0%;
+    display: flex
+}
